@@ -61,11 +61,3 @@ deletePatientName.html
     the page has a light blue theme so that it appears like a health care site and so it follows the theme of the rest of the page
     the enter page form utilizes a rounded blue border since it looks nice, and having a
     filled border looks bad with the form inputs being white(there is too much contrast)
-
-
-The pages have some margin and padding for a better looking site, and it improves the spacing
-
-ambiguity:
-I was unsure as to what the instructions ment for a unique number for each entry
-since I did not know if it was for every new entry made into the system or every name combination
-I decided that each unique entry is a first and last name combination regardless of case
